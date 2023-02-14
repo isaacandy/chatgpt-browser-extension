@@ -1,7 +1,6 @@
 # ChatGPT for Internet Browsers (Google, Opera, Firefox)
 
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/wong2/chatgpt-google-extension/pre-release-build.yml)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=wong2.chat-gpt-google-extension&left_color=green&right_color=red)
 [![Twitter Follow](https://img.shields.io/twitter/follow/izndtechnews?style=social)](https://twitter.com/izndtechnews)
 ![License](https://img.shields.io/github/license/wong2/chatgpt-google-extension)
 
