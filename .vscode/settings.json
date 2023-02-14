@@ -1,0 +1,12 @@
+{
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        ".",
+        "-p",
+        "*test.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": true,
+    "chatgpt.gpt3.apiKey": "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"
+}
